@@ -12,5 +12,9 @@ public class App
         System.out.println( "testing" );
         System.out.println( "Hello World!ABBC ..." );
         System.out.println( "testingABC..." );
+        System.out.println( "Hello World!" );
+        System.out.println( "testing" );
+        System.out.println( "Hello World!ABBC ..." );
+        System.out.println( "testingABC..." );
     }
 }
